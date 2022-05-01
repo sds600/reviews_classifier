@@ -1,0 +1,5 @@
+/source
+.DS_Store
+/.ipynb_checkpoints/
+/dumps
+/catboost_info
